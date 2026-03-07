@@ -20,11 +20,11 @@ export const metadata: Metadata = {
     icon: [
       {
         media: "(prefers-color-scheme: light)",
-        url: "/logo.svg",
+        url: "/favicon/logo.svg",
       },
       {
         media: "(prefers-color-scheme: dark)",
-        url: "/logo-dark.svg",
+        url: "/favicon/logo-dark.svg",
       },
     ],
   },
